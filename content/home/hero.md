@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Book Template
+title: Retina5k Dataset
 hero_media: book.svg
 design:
   background:
@@ -24,7 +24,7 @@ cta_note:
     </span>
 ---
 
-Published with the [Wowchemy Website Builder](https://sourcethemes.com/academic/) for Hugo.
+Multi-disease and multi-grader OCT dataset for deep learning research in ophthalmology.
 
 Write something interesting about your project here.
 
