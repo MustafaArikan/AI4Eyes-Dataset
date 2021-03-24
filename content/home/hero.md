@@ -26,6 +26,7 @@ cta_note:
 
 Multi-disease and multi-grader OCT dataset for deep learning research in ophthalmology.
 
-Write something interesting about your project here.
+A large annotated ophthalmic imaging dataset containing 1668 scans from 60 OCT volumes and 2 diseases and 1 normal/healthy group with additional
+2566 scans from 88 OCT volumes segmented automatically.
 
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-book" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Book template">Star the Book template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+
