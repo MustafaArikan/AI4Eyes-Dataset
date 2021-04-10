@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: XXXX
+title: Retina5kOCT Dataset
 hero_media: book.svg
 design:
   background:
@@ -24,6 +24,7 @@ cta_note:
     </span>
 ---
 
-XXXX
+Multi-disease and multi-grader OCT dataset for deep learning research in ophthalmology with more than 5000 expert labels.
 
-XXXX
+A large annotated ophthalmic imaging dataset containing 1668 scans from 60 OCT volumes and 2 diseases and 1 normal/healthy group with additional
+2566 scans from 88 OCT volumes segmented automatically.
