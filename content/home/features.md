@@ -11,6 +11,6 @@ feature:
     description: Coming _soon_
   - icon: book-open
     icon_pack: fas
-    name: Publication
+    name: Publications
     description: Coming _soon_
 ---
