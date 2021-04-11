@@ -9,11 +9,11 @@ weight: 1
 
 Besides the dataset we also share a pretrained model for retinal layer segmentation. The model segments five retinal layers, namely: 
 
-* **Internal limiting membrane (ILM), **
-* **Outer Plexiform Layer (OPL), **
-* **Photoreceptor Inner Segment and Outer Segment Layers (IS-OS), **
-* **Inner Boundary of Retinal Pigment Epithelium (IBRPE) and **
-* **Outer Boundary of Retinal Pigment Epithelium (OBRPE) layers. **
+* Internal limiting membrane (ILM),
+* Outer Plexiform Layer (OPL),
+* Photoreceptor Inner Segment and Outer Segment Layers (IS-OS),
+* nner Boundary of Retinal Pigment Epithelium (IBRPE) and
+* Outer Boundary of Retinal Pigment Epithelium (OBRPE) layers.
 
 ## Notebook
 
