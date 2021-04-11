@@ -12,45 +12,16 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## Flexibility
+## Description
 
-Document everything!
+The images were obtained using a Heidelberg Spectralis device. The resolution is  512x512 per image. The number of scans varies between 19 and 69 images per volume. A complete list of images per disease is given in Table 1.
 
-This feature can be used for publishing content such as:
+## Table 1: Scans per disease and volume
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
-* **Notes**
+Disease;	Number of scans per group and volume
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+AMD; 703 scans, 8 x 19, 4 x 25, 2 x 31, 7 x 61
 
-## Delete courses
+DME; 403 scams, 18 x 19, 1 x 61
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
-
-## Update site menu
-
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
-## Update the docs menu
-
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+Normal/healthy; 530 scans, 12 x 19, 2 x 25, 3 x 31, 1 x 37, 2 x 61
