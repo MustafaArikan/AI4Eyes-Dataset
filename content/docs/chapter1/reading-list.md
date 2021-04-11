@@ -11,4 +11,4 @@ The experts annotated Internal limiting membrane (ILM), Outer Plexiform Layer (O
 
 ## Visualization
 
-![Annotated Layers](/static/media/Figure_01.png)
+![Annotated Layers](https://raw.githubusercontent.com/MustafaArikan/AI4Eyes-Dataset/main/static/media/Figure_01.png)
