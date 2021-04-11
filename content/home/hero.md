@@ -19,7 +19,7 @@ cta_alt:
   label: View Documentation
 cta_note:
   label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
+    <span class="js-github-release" data-repo="">
       Show your product version here: 0.1
     </span>
 ---
