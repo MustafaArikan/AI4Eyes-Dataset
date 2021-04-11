@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 2
+linktitle: Chapter 2 | Baseline
 summary: Learn how to use the baseline for segmenting retinal layers
 weight: 2
 icon: book
