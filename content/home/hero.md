@@ -16,7 +16,7 @@ cta:
   icon: download
 cta_alt:
   url: docs/
-  label: View Documentation
+  label: Dataset and baseline method will be made available for download soon
 cta_note:
   label: >-
     <span class="js-github-release" data-repo="">
